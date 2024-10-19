@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,6 +36,7 @@
     &quot;Application.Pizzeria.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tellsense/2lab&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -46,6 +47,21 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2_1.Main" />
+      <module name="SimbirSoftSDET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,6 +85,12 @@
       <workItem from="1727369706881" duration="30000" />
       <workItem from="1727884152502" duration="11151000" />
       <workItem from="1727896428406" duration="1086000" />
+      <workItem from="1727949180249" duration="718000" />
+      <workItem from="1727967674366" duration="2432000" />
+      <workItem from="1729244425276" duration="654000" />
+      <workItem from="1729246046821" duration="1891000" />
+      <workItem from="1729339015991" duration="3033000" />
+      <workItem from="1729342105460" duration="8000" />
     </task>
     <servers />
   </component>
